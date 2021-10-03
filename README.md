@@ -14,8 +14,8 @@ V13 Stat botudur Dens tarafından çevirilmiştir!
     EmbedAltyazi:   "Yashinu 💛 Dens",      // Hem Botun Biosu Hemde Embedlerin Footeri
     BotSesKanal:    "",   // Botun Sese Gireceği Kanal **NOT** Boş Bırakırsanız Sese Girmez!
     JailRole:       "",   // Cezalılara Verilen rol
-    TeyitsizRolleri:[], // Kayıt olmuyanlara veriler rol
-    enAltYetkiliRolu:[], // İlk Yetkili Permi
+    TeyitsizRolleri: [], // Kayıt olmuyanlara veriler rol
+    enAltYetkiliRolu: [], // İlk Yetkili Permi
 
 ```
 ve son olarak
