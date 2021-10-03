@@ -1,8 +1,8 @@
-#Discord-yashinu-statbot-v13
+# Discord-yashinu-statbot-v13
 
 V13 Stat botudur Dens tarafından çevirilmiştir! Hata varsa kendiniz çözün
 
-#Kurulumlar (kısa)
+# Kurulumlar (kısa)
 
 ```js
 
