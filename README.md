@@ -1,6 +1,6 @@
 #Discord-yashinu-statbot-v13
 
-V13 Stat botudur Dens tarafından çevirilmiştir!
+V13 Stat botudur Dens tarafından çevirilmiştir! Hata varsa kendiniz çözün
 
 #Kurulumlar (kısa)
 
