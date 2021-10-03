@@ -1,0 +1,24 @@
+{
+  "name": "yasinin-stat-v13",
+  "version": "1.0.0",
+  "description": "Yashinun stat botunu Dens tarafından v13 çevirildi.",
+  "main": "yashinu.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dens&Yashinu",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.6.0",
+    "chillout": "^5.0.0",
+    "cron": "^1.8.2",
+    "discord.js": "^13.1.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.0.8",
+    "path": "^0.12.7",
+    "recursive-readdir": "^2.2.2",
+    "stuffs": "^0.1.6"
+  }
+}
